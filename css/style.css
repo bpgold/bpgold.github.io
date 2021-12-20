@@ -29,6 +29,10 @@ color:white
   font-size:25px
 }
 
+.card-block
+{ display:inline-grid;
+}
+
 .resources .card-block
 /* only affects card block inside resources. Nesting */
 {
