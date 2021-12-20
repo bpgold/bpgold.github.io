@@ -28,3 +28,9 @@ color:white
  
   font-size:25px
 }
+
+.resources .card-block
+/* only affects card block inside resources. Nesting */
+{
+height:403px;
+}
