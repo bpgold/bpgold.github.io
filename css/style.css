@@ -16,9 +16,15 @@ body {
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
-color:white
+/*.active, .collapsible:hover {
+color: #18020C
+} */
+
+/*all links black */
+a {
+	color: #18020C
 }
+
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
@@ -62,6 +68,5 @@ margin:20px;
 }
 
 .trusted .card
-{
+{ }
 
-}
