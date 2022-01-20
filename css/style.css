@@ -70,3 +70,6 @@ margin:20px;
 .trusted .card
 { }
 
+.carousel-control-next-icon, .carousel-control-prev-icon {
+	filter:invert(100%)
+}
