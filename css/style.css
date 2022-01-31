@@ -67,9 +67,6 @@ margin:20px;
 	left:0px:
 }
 
-.trusted .card
-{ }
-
 .carousel-control-next-icon, .carousel-control-prev-icon {
 	filter:invert(100%)
 }
@@ -78,4 +75,10 @@ margin:20px;
 {
 	height: 500px; 
 	width: 600px
+}
+
+.trusted .card
+{
+	height: 200px; 
+	width: 100%
 }
