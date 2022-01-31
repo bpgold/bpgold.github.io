@@ -1,5 +1,5 @@
-@media screen and (min-width: 1365px) and (max-width:1440px) {
+@media screen and (min-width: 1300px) and (max-width:1640px) {
 	.resources .card-block{
-		width: 200px;
-		height:403px;
+		width: 280px;
+		height:403px;		
 }
