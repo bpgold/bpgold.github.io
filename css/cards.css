@@ -1,5 +1,35 @@
 @media screen and (min-width: 1300px) and (max-width:1640px) {
 	.resources .card-block{
 		width: 280px;
-		height:403px;		
+		height:403px;
+		
+}
+}
+
+
+@media screen and (min-width: 774px) and (max-width:1089px) {
+	.trusted .card {
+		width: 100%;
+		height:500px;
+}
+}
+
+@media screen and (min-width: 900px) and (max-width:1207px) {
+	.trusted .card {
+		
+}
+}
+
+@media screen and (min-width:770px) and (max-width:1252px) {
+	.index .card {
+		width: 100%;
+		height:430px;
+}
+}
+
+@media screen and (min-width:768px) and (max-width:1152px) {
+	.index .card {
+		width: 100%;
+		height:610px;
+}
 }
