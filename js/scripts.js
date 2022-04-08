@@ -12,3 +12,14 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
+
+/* TRIAL TO FIX HOME*/
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+
