@@ -21,9 +21,14 @@ color: #18020C
 } */
 
 /*all links black */
-a {
+ a  {
 	color: #18020C
-}
+} 
+
+/*.nav-link >.active> a
+{ color: #ff829
+
+}*/
 
 
 /* Style the collapsible content. Note: hidden by default */
@@ -42,8 +47,6 @@ a {
 /* only affects card block inside resources. Nesting */
 {
  
- 
-
 }
 
 .trusted .card-block{
@@ -67,14 +70,16 @@ margin:20px;
 	left:0px:
 }
 
+
 .carousel-control-next-icon, .carousel-control-prev-icon {
 	filter:invert(100%)
 }
 
+
 .index .card
 {
 	height: 410px; 
-	width: 100%
+	width: 100%;
 }
 
 .trusted .card
@@ -82,12 +87,30 @@ margin:20px;
 	height: 200px; 
 	width: 100%
 }
+/*
+.index .card
+{
+	height:246px;
+width:452px; 
+display: inline-flex;
+margin:20px;
+}
+
+/*
+.index .card-text
+{
+	height:150px;
+width:500px; 
+display: inline-flex;
+margin:20px;
+*/
+
 
 /* TRIAL TO FIX HOME*/
 
 .topnav {
   overflow: hidden;
-  background-color:
+  background-color: 
 }
 
 .topnav a {
@@ -101,13 +124,11 @@ margin:20px;
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  color: #EDECFF;
 }
 
 .topnav a.active {
-  background-color: white;
-  color: black;
+  color: #E5FFDE;
 }
 
 .topnav .icon {
