@@ -43,7 +43,7 @@
 }
 }
 
-@media screen and (min-width:320px) and (max-width:0px) {
+@media screen and (min-width:0px) and (max-width:320px) {
 	.index .card {
 		display: none;
 }
