@@ -54,7 +54,7 @@
 */
 
 @media screen and (min-width:0px) and (max-width:400px) {
-	.index .img.card-img-top {
+	.index .card {
 		visibility: hidden;
 }
 }
